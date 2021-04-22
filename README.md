@@ -33,4 +33,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FernandoSzkvarak=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FernandoSzkvarak=Themes&show_icons=true&theme=radical)
