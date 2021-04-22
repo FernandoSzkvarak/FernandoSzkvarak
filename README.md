@@ -27,6 +27,7 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FernandoSzkvarak=anuraghazra&show_icons=chartreuse-dark=radical)
 
 
 
