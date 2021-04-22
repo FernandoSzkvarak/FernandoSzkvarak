@@ -13,7 +13,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSzkvarak&layout=compact)](https://github.com/FernandoSzkvarak/github-readme-stats)
 
 
 
@@ -33,6 +33,4 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoSzkvarak&repo=default" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoshakan&exclude_repo=chartreuse-dark,Diegoshakan.github.io)](https://github.com/Diegoshakan/github-readme-stats)
