@@ -33,4 +33,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FernandoSzkvarak=Themes&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoSzkvarak&repo=Customizing stats card" />
+</a>
