@@ -6,3 +6,4 @@
 - 📚 3rd year high school student;
 - ⌨️ I have some knowledge about basic programming
 - 📫 contacte me for the email (fernandodesengrini11@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
