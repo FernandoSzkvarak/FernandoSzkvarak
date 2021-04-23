@@ -7,31 +7,9 @@
 - ⌨️ I have some knowledge about basic programming
 - 📫 contacte me for the email (fernandodesengrini11@gmail.com)
 
+<a href="https://github.com/FernandoSzkvarak" taregt="_blank">
+<img align="center" alt="FernandoSzkvarak" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
+</a>
 
 
 
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoSzkvarak)](https://github.com/FernandoSzkvarak/github-readme-stats)
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FernandoSzkvarak=anuraghazra&show_icons=chartreuse-dark=radical)
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSzkvarak&exclude_repo=chartreuse-dark,FernandoSzkvarak.github.io)](https://github.com/Diegoshakan/github-readme-stats)
