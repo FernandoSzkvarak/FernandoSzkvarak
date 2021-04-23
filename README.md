@@ -12,4 +12,7 @@
 </a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSzkvarak&layout=compact)](https://github.com/FernandoSzkvarak/github-readme-stats)
+
+
 
