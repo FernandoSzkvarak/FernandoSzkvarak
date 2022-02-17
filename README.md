@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fernando Szkvarak
 - 🧍 I am 17 years old;
-- 👀 I’m interested in games and science computer
-- 🌱 I’m currently learning a schedule
+- 👀 I’m interested in games and computer science
 - 🏠 I live in Brazil 
 - 📚 Currently studying computer science;
 - ⌨️ I have some knowledge about basic programming
