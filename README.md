@@ -5,7 +5,7 @@
 - 🏠 I live in Brazil 
 - 📚 Currently studying computer science;
 - ⌨️ I have some knowledge about basic programming
-- 📫 contacte me for the email (fernandodesengrini11@gmail.com)
+- 📫 How to reach me? Send me a message on email! (fernandodesengrini11@gmail.com)
 
 <a href="https://github.com/FernandoSzkvarak" taregt="_blank">
 <img align="center" alt="FernandoSzkvarak" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
