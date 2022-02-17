@@ -3,7 +3,7 @@
 - 👀 I’m interested in games and science computer
 - 🌱 I’m currently learning a schedule
 - 🏠 I live in Brazil 
-- 📚 3rd year high school student;
+- 📚 Currently studying computer science;
 - ⌨️ I have some knowledge about basic programming
 - 📫 contacte me for the email (fernandodesengrini11@gmail.com)
 
