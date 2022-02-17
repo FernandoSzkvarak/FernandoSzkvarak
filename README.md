@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Szkvarak
-- 🧍 I am 16 years old;
+- 🧍 I am 17 years old;
 - 👀 I’m interested in games and science computer
 - 🌱 I’m currently learning a schedule
 - 🏠 I live in Brazil 
