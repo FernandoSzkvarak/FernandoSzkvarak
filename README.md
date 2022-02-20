@@ -7,7 +7,7 @@
 - 📫 How to reach me? Send me a message on email! (fernandodesengrini11@gmail.com)
 
 
-
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoSzkvarak&show_icons=true&theme=dracula)
 
 
 
